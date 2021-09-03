@@ -1,0 +1,22 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input {
+    width: 350px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 8px;
+  }
+  
+  button {
+    width: 200px;
+    height: 35px;
+    margin: 10px;
+    font-size: 20px;
+    font-variant: small-caps;
+    border-radius: 5px;
+  }
